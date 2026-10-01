@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyaazQureshi/DSA-java-/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/AyaazQureshi/DSA-java-/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
