@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyaazQureshi/DSA-java-/tree/master/2089-find-target-indices-after-sorting-array) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/AyaazQureshi/DSA-java-/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/AyaazQureshi/DSA-java-/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
