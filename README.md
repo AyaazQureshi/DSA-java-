@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AyaazQureshi/DSA-java-/tree/master/0001-two-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyaazQureshi/DSA-java-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AyaazQureshi/DSA-java-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyaazQureshi/DSA-java-/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AyaazQureshi/DSA-java-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
@@ -16,14 +17,17 @@
 ## String
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AyaazQureshi/DSA-java-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3110-score-of-a-string](https://github.com/AyaazQureshi/DSA-java-/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AyaazQureshi/DSA-java-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyaazQureshi/DSA-java-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AyaazQureshi/DSA-java-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyaazQureshi/DSA-java-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
